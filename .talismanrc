@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: app/app/settings.py
+  checksum: 73a3bc9bfd3973ea16f4d5e224b222625767592e9b6f198fe81ac6425fad7d6d
+- filename: recipe-app
+  checksum: 46be27560951d4fdda994bb357c555ea2ad8ceb6606c2ae996985484f9e7efe5
+- filename: .github/workflows/checks.yml
+  checksum: d979ead41b5c2f15658eeaf211333f2f0f77ff90501775c3e82e5e97784328c5
+version: ""
