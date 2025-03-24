@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: app/app/settings.py
-  checksum: fdf797aba592213d01584f9849bfba33b053cb5689eec0b0ec526b4da25b9271
+  checksum: 65a2be9dbd64addfac6e8c6e9c4fcc3a0927a89c9e9dbbd63717e812347d2c34
+- filename: docker-compose.yml
+  checksum: e6128ebef1e71e4b79799b141e241fcfbd78026ad5ae3436f4d59f619b37bf95
 version: ""
