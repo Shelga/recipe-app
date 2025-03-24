@@ -1,16 +1,8 @@
 fileignoreconfig:
 - filename: app/app/settings.py
-  checksum: 88bf96c67136d21b9c6f7072ba64db66fac4bac493f28026d3a8c3364dbc7e5a
-- filename: app/core/models.py
-  checksum: 6ddc193331976dff69151cfec078460094c99cd39c361c4a3722337b867ffce9
-- filename: app/core/tests/test_admin.py
-  checksum: c4b8168f012bf6db9ac136c73934af8544a7f3176abb7e6367e6d405c4c312c8
-- filename: app/core/migrations/0001_initial.py
-  checksum: 444c55d11c3b77a9f09e03ff01a41f45c2827c405f26e595effffd5bf6cc6df0
-- filename: app/core/tests/test_models.py
-  checksum: 5506f2bbfe389e31a8091d1598432bb3423548557ee971cee3ba6856eb37baa8
+  checksum: 3918bd1781815ef3fd07067c38bbc8f61b1bd99d5c66612d6b2903544c4b0fbc
 - filename: app/user/serializers.py
-  checksum: ce3ecbae720fd996b1466912b18b6b1c0ef3360778f300ac6b131435edaf945c
+  checksum: 2f922275ee657b5c966c077177382819df9a99a8ea836800a69cc2e2df0ef943
 - filename: app/user/tests/test_user_api.py
-  checksum: 94c968f306f70e076c6889aab79ada086502d2c441e36674331891b8da53b367
+  checksum: 8d8a98d9cb1211c8f2e81d9fec71d24ddd929d44db54fb12e33ceb6f6607613d
 version: ""
